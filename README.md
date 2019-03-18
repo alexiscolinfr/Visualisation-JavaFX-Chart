@@ -1,4 +1,4 @@
-# Visualisation_JavaFX_Chart
+# Visualisation-JavaFX-Chart
 
 Création d’une application de visualisation de diagrammes en Java avec l’API JavaFX. A
 partir d’un jeu de données dont les valeurs peuvent être modifiées, ajoutés ou supprimés,
